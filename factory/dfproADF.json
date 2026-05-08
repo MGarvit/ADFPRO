@@ -1,0 +1,15 @@
+{
+	"name": "dfproADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6639ba79-7de5-48c7-ac50-6570b4db8097",
+		"tenantId": "e0bdf569-e7ab-432d-aa13-2af185487880"
+	}
+}
